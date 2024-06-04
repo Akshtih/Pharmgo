@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489498507185",
+    "project_id": "pharmgo-bd4c6",
+    "storage_bucket": "pharmgo-bd4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489498507185:android:2f53f31dc86f89b3b66f90",
+        "android_client_info": {
+          "package_name": "com.example.pharmgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAieoC62t5m9I2ylJ6nH7AHSMkSHZfDcuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
